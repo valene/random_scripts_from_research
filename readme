@@ -1,0 +1,9 @@
+These are some of the scripts I used in my research.
+Most of them deal with seqquest, extracting data or generating inputs.
+The visualisation output is usually in .xyz format. 
+A few of the script also deal with coordinate converstions.
+Works only on linux, and also use as it is, no guarantee.
+feel free to grab them if you like.
+
+PS: Most of them are crude with no exit status as they were only meant 
+local use. 
